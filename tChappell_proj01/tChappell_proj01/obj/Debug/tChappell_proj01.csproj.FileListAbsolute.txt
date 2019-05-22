@@ -1,0 +1,7 @@
+C:\Users\Toby Chappell\source\repos\tChappell_proj01\tChappell_proj01\bin\Debug\tChappell_proj01.exe.config
+C:\Users\Toby Chappell\source\repos\tChappell_proj01\tChappell_proj01\bin\Debug\tChappell_proj01.exe
+C:\Users\Toby Chappell\source\repos\tChappell_proj01\tChappell_proj01\bin\Debug\tChappell_proj01.pdb
+C:\Users\Toby Chappell\source\repos\tChappell_proj01\tChappell_proj01\obj\Debug\tChappell_proj01.csprojAssemblyReference.cache
+C:\Users\Toby Chappell\source\repos\tChappell_proj01\tChappell_proj01\obj\Debug\tChappell_proj01.csproj.CoreCompileInputs.cache
+C:\Users\Toby Chappell\source\repos\tChappell_proj01\tChappell_proj01\obj\Debug\tChappell_proj01.exe
+C:\Users\Toby Chappell\source\repos\tChappell_proj01\tChappell_proj01\obj\Debug\tChappell_proj01.pdb

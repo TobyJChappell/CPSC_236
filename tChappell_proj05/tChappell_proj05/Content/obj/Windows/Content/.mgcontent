@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Profile>Reach</Profile>
+  <Platform>Windows</Platform>
+  <Config />
+  <SourceFiles>
+    <File>C:/Users/Toby Chappell/source/repos/tChappell_proj05/tChappell_proj05/Content/Arial20.spritefont</File>
+    <File>C:/Users/Toby Chappell/source/repos/tChappell_proj05/tChappell_proj05/Content/ball.png</File>
+    <File>C:/Users/Toby Chappell/source/repos/tChappell_proj05/tChappell_proj05/Content/brick.png</File>
+    <File>C:/Users/Toby Chappell/source/repos/tChappell_proj05/tChappell_proj05/Content/BrickSound.wav</File>
+    <File>C:/Users/Toby Chappell/source/repos/tChappell_proj05/tChappell_proj05/Content/MissSound.wav</File>
+    <File>C:/Users/Toby Chappell/source/repos/tChappell_proj05/tChappell_proj05/Content/Paddle.png</File>
+    <File>C:/Users/Toby Chappell/source/repos/tChappell_proj05/tChappell_proj05/Content/PaddleBounceSound.wav</File>
+    <File>C:/Users/Toby Chappell/source/repos/tChappell_proj05/tChappell_proj05/Content/pixel.png</File>
+    <File>C:/Users/Toby Chappell/source/repos/tChappell_proj05/tChappell_proj05/Content/StartSound.wav</File>
+    <File>C:/Users/Toby Chappell/source/repos/tChappell_proj05/tChappell_proj05/Content/WallBounceSound.wav</File>
+  </SourceFiles>
+  <DestFiles>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+  </DestFiles>
+</SourceFileCollection>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Profile>Reach</Profile>
+  <Platform>Windows</Platform>
+  <Config />
+  <SourceFiles>
+    <File>C:/Users/Toby Chappell/source/repos/tChappell_proj06/tChappell_proj06/Content/Alien.png</File>
+    <File>C:/Users/Toby Chappell/source/repos/tChappell_proj06/tChappell_proj06/Content/Arial20.spritefont</File>
+    <File>C:/Users/Toby Chappell/source/repos/tChappell_proj06/tChappell_proj06/Content/Blaster.png</File>
+    <File>C:/Users/Toby Chappell/source/repos/tChappell_proj06/tChappell_proj06/Content/DestroyedSpaceShip.jpg</File>
+    <File>C:/Users/Toby Chappell/source/repos/tChappell_proj06/tChappell_proj06/Content/explosion.wav</File>
+    <File>C:/Users/Toby Chappell/source/repos/tChappell_proj06/tChappell_proj06/Content/fastinvader1.wav</File>
+    <File>C:/Users/Toby Chappell/source/repos/tChappell_proj06/tChappell_proj06/Content/fastinvader2.wav</File>
+    <File>C:/Users/Toby Chappell/source/repos/tChappell_proj06/tChappell_proj06/Content/fastinvader3.wav</File>
+    <File>C:/Users/Toby Chappell/source/repos/tChappell_proj06/tChappell_proj06/Content/fastinvader4.wav</File>
+    <File>C:/Users/Toby Chappell/source/repos/tChappell_proj06/tChappell_proj06/Content/invaderkilled.wav</File>
+    <File>C:/Users/Toby Chappell/source/repos/tChappell_proj06/tChappell_proj06/Content/Pixel.png</File>
+    <File>C:/Users/Toby Chappell/source/repos/tChappell_proj06/tChappell_proj06/Content/shoot.wav</File>
+    <File>C:/Users/Toby Chappell/source/repos/tChappell_proj06/tChappell_proj06/Content/SpaceShip.png</File>
+    <File>C:/Users/Toby Chappell/source/repos/tChappell_proj06/tChappell_proj06/Content/UFO.png</File>
+    <File>C:/Users/Toby Chappell/source/repos/tChappell_proj06/tChappell_proj06/Content/ufo_highpitch.wav</File>
+    <File>C:/Users/Toby Chappell/source/repos/tChappell_proj06/tChappell_proj06/Content/ufo_lowpitch.wav</File>
+  </SourceFiles>
+  <DestFiles>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+  </DestFiles>
+</SourceFileCollection>

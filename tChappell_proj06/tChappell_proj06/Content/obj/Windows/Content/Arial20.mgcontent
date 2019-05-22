@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <SourceFile>C:/Users/Toby Chappell/source/repos/tChappell_proj06/tChappell_proj06/Content/Arial20.spritefont</SourceFile>
+  <SourceTime>2019-04-09T18:35:32.8843465-07:00</SourceTime>
+  <DestFile>C:/Users/Toby Chappell/source/repos/tChappell_proj06/tChappell_proj06/Content/bin/Windows/Content/Arial20.xnb</DestFile>
+  <DestTime>2019-04-09T18:38:29.9164459-07:00</DestTime>
+  <Importer>FontDescriptionImporter</Importer>
+  <ImporterTime>2018-12-08T08:35:54-08:00</ImporterTime>
+  <Processor>FontDescriptionProcessor</Processor>
+  <ProcessorTime>2018-12-08T08:35:54-08:00</ProcessorTime>
+  <Parameters>
+    <Key>PremultiplyAlpha</Key>
+    <Value>True</Value>
+  </Parameters>
+  <Parameters>
+    <Key>TextureFormat</Key>
+    <Value>Compressed</Value>
+  </Parameters>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput />
+</PipelineBuildEvent>

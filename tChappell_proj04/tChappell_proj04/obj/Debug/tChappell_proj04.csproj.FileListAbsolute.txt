@@ -1,0 +1,10 @@
+C:\Users\Toby Chappell\source\repos\tChappell_proj04\tChappell_proj04\bin\Debug\tChappell_proj04.exe.config
+C:\Users\Toby Chappell\source\repos\tChappell_proj04\tChappell_proj04\bin\Debug\tChappell_proj04.exe
+C:\Users\Toby Chappell\source\repos\tChappell_proj04\tChappell_proj04\bin\Debug\tChappell_proj04.pdb
+C:\Users\Toby Chappell\source\repos\tChappell_proj04\tChappell_proj04\obj\Debug\tChappell_proj04.csprojAssemblyReference.cache
+C:\Users\Toby Chappell\source\repos\tChappell_proj04\tChappell_proj04\obj\Debug\tChappell_proj04.Form1.resources
+C:\Users\Toby Chappell\source\repos\tChappell_proj04\tChappell_proj04\obj\Debug\tChappell_proj04.Properties.Resources.resources
+C:\Users\Toby Chappell\source\repos\tChappell_proj04\tChappell_proj04\obj\Debug\tChappell_proj04.csproj.GenerateResource.cache
+C:\Users\Toby Chappell\source\repos\tChappell_proj04\tChappell_proj04\obj\Debug\tChappell_proj04.csproj.CoreCompileInputs.cache
+C:\Users\Toby Chappell\source\repos\tChappell_proj04\tChappell_proj04\obj\Debug\tChappell_proj04.exe
+C:\Users\Toby Chappell\source\repos\tChappell_proj04\tChappell_proj04\obj\Debug\tChappell_proj04.pdb

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Profile>Reach</Profile>
+  <Platform>Windows</Platform>
+  <Config />
+  <SourceFiles>
+    <File>C:/Users/Toby Chappell/source/repos/tChappell_projFinal/tChappell_projFinal/Content/AllBombs.png</File>
+    <File>C:/Users/Toby Chappell/source/repos/tChappell_projFinal/tChappell_projFinal/Content/BlankTile.png</File>
+    <File>C:/Users/Toby Chappell/source/repos/tChappell_projFinal/tChappell_projFinal/Content/Bomb.png</File>
+    <File>C:/Users/Toby Chappell/source/repos/tChappell_projFinal/tChappell_projFinal/Content/Flag.png</File>
+    <File>C:/Users/Toby Chappell/source/repos/tChappell_projFinal/tChappell_projFinal/Content/IncorrectBomb.png</File>
+    <File>C:/Users/Toby Chappell/source/repos/tChappell_projFinal/tChappell_projFinal/Content/MenuText.spritefont</File>
+    <File>C:/Users/Toby Chappell/source/repos/tChappell_projFinal/tChappell_projFinal/Content/Number0.png</File>
+    <File>C:/Users/Toby Chappell/source/repos/tChappell_projFinal/tChappell_projFinal/Content/Number1.png</File>
+    <File>C:/Users/Toby Chappell/source/repos/tChappell_projFinal/tChappell_projFinal/Content/Number2.png</File>
+    <File>C:/Users/Toby Chappell/source/repos/tChappell_projFinal/tChappell_projFinal/Content/Number3.png</File>
+    <File>C:/Users/Toby Chappell/source/repos/tChappell_projFinal/tChappell_projFinal/Content/Number4.png</File>
+    <File>C:/Users/Toby Chappell/source/repos/tChappell_projFinal/tChappell_projFinal/Content/Number5.png</File>
+    <File>C:/Users/Toby Chappell/source/repos/tChappell_projFinal/tChappell_projFinal/Content/Number6.png</File>
+    <File>C:/Users/Toby Chappell/source/repos/tChappell_projFinal/tChappell_projFinal/Content/Number7.png</File>
+    <File>C:/Users/Toby Chappell/source/repos/tChappell_projFinal/tChappell_projFinal/Content/Number8.png</File>
+    <File>C:/Users/Toby Chappell/source/repos/tChappell_projFinal/tChappell_projFinal/Content/QuestionMark.png</File>
+    <File>C:/Users/Toby Chappell/source/repos/tChappell_projFinal/tChappell_projFinal/Content/Text.spritefont</File>
+  </SourceFiles>
+  <DestFiles>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+  </DestFiles>
+</SourceFileCollection>
